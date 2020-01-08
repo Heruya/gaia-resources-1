@@ -1,5 +1,5 @@
 # gaia-resources
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
 Kumpulan draft materi Gaia Labs
 
 - [Daftar elemen-tools](./Elements/daftar-elemen-per-tool.csv)
@@ -8,8 +8,7 @@ Kumpulan draft materi Gaia Labs
 - [DRAFT Repository dalam format XML](./Elements/GB-Elements-raw.xml)
 - [WorkBook META](./Workbook/WORKBOOK-META.txt)
 - [DRAFT WorkBook SJT-ASN Markdown](./Workbook/SJT-ASN-Default.md)
-- [Kumpulan DRAFT WorkBook XML](./Workbook/xml/)
+
 
 Catatan: ini adalah repositori sementara sebelum nantinya kepemilikan dialihkan ke Gaia.
-
-AaAaA
+Mangan KIKIL enak banget kih
