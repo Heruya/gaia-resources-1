@@ -11,3 +11,4 @@ Kumpulan draft materi Gaia Labs
 - [Kumpulan DRAFT WorkBook XML](./Workbook/xml/)
 
 Catatan: ini adalah repositori sementara sebelum nantinya kepemilikan dialihkan ke Gaia.
+Mangan KIKIL enak banget kih
